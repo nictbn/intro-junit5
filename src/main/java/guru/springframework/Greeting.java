@@ -1,6 +1,6 @@
 package guru.springframework;
 
-public class greeting {
+public class Greeting {
 
     private static final String HELLO = "Hello";
     private static final String WORLD = "World";
